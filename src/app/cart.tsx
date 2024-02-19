@@ -7,10 +7,10 @@ import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view
 
 import { Header } from "@/components/header";
 import { Product } from "@/components/product";
-import { formatCurrency } from "@/utils/data/functions/format-currency";
+import { LinkButton } from "@/components/link-button";
 import { Input } from "@/components/input";
 import { Button } from "@/components/button";
-import { LinkButton } from "@/components/link-button";
+import { formatCurrency } from "@/utils/data/functions/format-currency";
 
 const PHONE_NUMBER = "5521980880152";
 
